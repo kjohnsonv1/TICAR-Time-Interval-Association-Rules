@@ -1,0 +1,70 @@
+TimeSpan, (T1)
+Rsh, Rsa, -0.0, 3.2431183
+
+TimeSpan, (T2)
+Rsc, Rsa, 8.70192, 16.876047
+
+TimeSpan, (T3)
+Rsp, Rsa, 0.8771495, 10.060607
+
+TimeSpan, (T4)
+Rsc, Rsh, 7.298439, 15.423185
+
+TimeSpan, (T5)
+Rsp, Rsc, 1.073518, 7.911651
+
+TimeSpan, (T6)
+Rsc, Rsp, 3.5875902, 10.376957
+
+TimeSpan, (T7)
+Rsp, Rsh, -0.0, 9.21367
+
+TimeSpan, (T8)
+Rsp, Rsh, 16.660294, 25.674473
+
+TimeSpan, (T9)
+Rsp, Rsh, 9.582767, 16.608128
+
+TimeSpan, (T10)
+Rsp, Rsc, 8.015696, 16.122662
+
+TimeSpan, (T11)
+Rsp, Rsp, 6.5570865, 13.71926
+
+TimeSpan, (T12)
+Rsh, Rsp, 2.587019, 17.782124
+
+TimeSpan, (T13)
+Rsc, Rsa, -0.0, 7.290081
+
+TimeSpan, (T14)
+Rsc, Rsa, 0.0, 12.126386
+
+TimeSpan, (T15)
+Rsh, Rsa, 8.04176, 22.181587
+
+TimeSpan, (T16)
+Rsh, Rsa, 3.3871503, 7.693503
+
+TimeSpan, (T17)
+Rsp, Rsa, -0.0, 0.9898263
+
+TimeSpan, (T18)
+Rsp, Rsa, 0.0, 0.90924585
+
+Group, G1
+4.0
+0.0, (T9~RB)
+1.0, (T4~RA)
+0.0, (T9~RA)
+1.0, (T4~RB)
+(T9~RA), (T9~RB), SameFrequency
+(T4~RB), (T4~RA), SameFrequency
+(T9~RB), (T4~RB), SameTime
+
+FutureExplanation
+G1~R(T4~RA), (T2), Rsa
+
+FutureExplanation
+G1~R(T4~RB), (T1), Rsa
+

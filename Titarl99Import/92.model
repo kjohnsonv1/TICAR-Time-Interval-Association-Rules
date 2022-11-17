@@ -1,0 +1,54 @@
+TimeSpan, (T1)
+Rsa, Rsa, 0.738849, 1.9716059
+
+TimeSpan, (T2)
+Rsa, Rsa, 8.604432, 10.0
+
+TimeSpan, (T3)
+Rsl, Rsa, 0.98266685, 2.3669255
+
+TimeSpan, (T4)
+Rsf, Rsa, 0.23160751, 1.3523972
+
+TimeSpan, (T5)
+Rsf, Rsa, 5.4236045, 6.7169166
+
+TimeSpan, (T6)
+Rsl, Rsf, 0.34168592, 1.8105261
+
+TimeSpan, (T7)
+Rse, Rsa, 2.1104677, 3.4405868
+
+TimeSpan, (T8)
+Rse, Rsa, 6.0246797, 7.250864
+
+TimeSpan, (T9)
+Rse, Rsa, 8.88568, 10.208749
+
+TimeSpan, (T10)
+Rsl, Rsl, 1.7786717, 3.3426437
+
+TimeSpan, (T11)
+Rsg, Rsl, 1.5206165, 3.2264178
+
+TimeSpan, (T12)
+Rsl, Rsg, 8.595063, 10.454564
+
+TimeSpan, (T13)
+Rsf, Rsa, 1.9917132, 3.740167
+
+TimeSpan, (T14)
+Rsf, Rsa, 8.479985, 9.847999
+
+TimeSpan, (T15)
+Rse, Rsa, 0.19602445, 2.4434445
+
+TimeSpan, (T16)
+Rse, Rsa, 4.6596746, 5.940563
+
+TimeSpan, (T17)
+Rsl, Rsa, 2.2780287, 3.367143
+
+TimeSpan, (T18)
+Rsl, Rsa, 7.3441515, 8.549274
+

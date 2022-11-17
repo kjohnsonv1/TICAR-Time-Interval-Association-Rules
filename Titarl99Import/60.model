@@ -1,0 +1,27 @@
+TimeSpan, (T1)
+Rsa, Rsa, 7.8788586, 9.684528
+
+TimeSpan, (T2)
+Rsi, Rsa, 5.930306, 7.5797195
+
+TimeSpan, (T3)
+Rsa, Rsa, 5.1675797, 7.305808
+
+TimeSpan, (T4)
+Rsi, Rsi, 16.73444, 20.0
+
+TimeSpan, (T5)
+Rsi, Rsi, 8.241982, 11.138794
+
+TimeSpan, (T6)
+Rsi, Rsa, 2.2363338, 4.508065
+
+TimeSpan, (T7)
+Rsi, Rsa, 9.256861, 12.193888
+
+TimeSpan, (T8)
+Rsi, Rsa, 0.0, 2.2276716
+
+FutureExplanation
+(T8~RB), (T3), Rsa
+

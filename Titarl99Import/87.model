@@ -1,0 +1,36 @@
+TimeSpan, (T1)
+Rsr, Rsa, 0.46889362, 1.9807107
+
+TimeSpan, (T2)
+Rsr, Rsr, 6.693475, 9.183485
+
+TimeSpan, (T3)
+Rsr, Rsr, 12.471427, 15.425259
+
+TimeSpan, (T4)
+Rse, Rsa, 1.5784272, 4.7161026
+
+TimeSpan, (T5)
+Rsr, Rsa, 4.674832, 7.236121
+
+TimeSpan, (T6)
+Rsg, Rsa, 0.8933381, 4.4661493
+
+TimeSpan, (T7)
+Rsr, Rsa, 3.2998948, 6.412666
+
+TimeSpan, (T8)
+Rsr, Rsa, 9.526372, 13.143071
+
+Group, G1
+3.0
+1.0, Rsr
+1.0, (T2~RA)
+1.0, (T2~RB)
+(T2~RB), Rsr, SameTime
+Rsr, (T2~RA), SameTime
+(T2~RA), (T2~RB), SameFrequency
+
+FutureExplanation
+G1~RRsr, (T8), Rsa
+
