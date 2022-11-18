@@ -1,0 +1,9 @@
+TimeSpan, (T1)
+Rsk, Rsa, 6.1017256, 9.194504
+
+TimeSpan, (T4)
+Rsj, Rsk, 3.4774594, 10.135518
+
+FutureExplanation
+(T4~RB), (T1), Rsa
+

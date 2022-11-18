@@ -1,0 +1,24 @@
+TimeSpan, (T4)
+Rsf, Rsa, 6.8148646, 8.716485
+
+TimeSpan, (T5)
+Rsf, Rsa, 8.711777, 10.510498
+
+TimeSpan, (T9)
+Rsg, Rsf, 6.6756206, 12.631966
+
+TimeSpan, (T11)
+Rsb, Rsg, 3.3554265, 7.775549
+
+Group, G1
+3.0
+1.0, (T11~RB)
+1.0, (T9~RB)
+1.0, (T9~RA)
+(T9~RA), (T9~RB), SameFrequency
+(T9~RA), (T11~RB), SameTime
+(T11~RB), (T11~RA), SameFrequency
+
+FutureExplanation
+G1~R(T9~RB), (T4), Rsa
+
