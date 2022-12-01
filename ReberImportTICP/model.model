@@ -1,0 +1,105 @@
+TimeSpan, (BT1)
+RsB, RsT, 98.77965, 100.77965
+
+TimeSpan, (T2)
+RsE, RsE, 199.0, 201.0
+
+TimeSpan, (BP1)
+RsB, RsP, 98.42198, 100.42198
+
+TimeSpan, (VV1)
+RsV, RsV, 98.38176, 100.38176
+
+TimeSpan, (VP1)
+RsV, RsP, 98.65292, 100.65292
+
+TimeSpan, (T6)
+RsS, RsE, 298.5227, 300.5227
+
+TimeSpan, (XX1)
+RsX, RsX, 98.15872, 100.15872
+
+TimeSpan, (EFinT1)
+RsE, RsFinT, 99.0, 101.0
+
+TimeSpan, (EFinP1)
+RsE, RsFinP, 99.0, 101.0
+
+TimeSpan, (TT1)
+RsT, RsT, 98.09602, 100.09602
+
+TimeSpan, (PX1)
+RsP, RsX, 99.0, 101.0
+
+TimeSpan, (SS1)
+RsS, RsS, 99.0, 101.0
+
+TimeSpan, (TV1)
+RsT, RsV, 99.0, 101.0
+
+TimeSpan, (T14)
+RsB, RsX, 199.0, 201.0
+
+TimeSpan, (SE1)
+RsS, RsE, 99.0, 101.0
+
+TimeSpan, (XV1)
+RsX, RsV, 99.0, 101.0
+
+TimeSpan, (T17)
+RsS, RsFinP, 199.0, 201.0
+
+TimeSpan, (XT1)
+RsX, RsT, 99.0, 101.0
+
+TimeSpan, (SX1)
+RsS, RsX, 99.0, 101.0
+
+TimeSpan, (T20)
+RsB, RsB, 199.0, 201.0
+
+TimeSpan, (VE1)
+RsV, RsE, 99.0, 101.0
+
+TimeSpan, (T22)
+RsT, RsP, 199.0, 201.0
+
+TimeSpan, (T23)
+RsV, RsE, 295.64508, 306.59106
+
+TimeSpan, (FinTE1)
+RsFinT, RsE, 99.0, 101.0
+
+TimeSpan, (FinPE1)
+RsFinP, RsE, 99.0, 101.0
+
+TimeSpan, (PB1)
+RsP, RsB, 99.0, 101.0
+
+TimeSpan, (PV1)
+RsP, RsV, 99.0, 101.0
+
+TimeSpan, (TB1)
+RsT, RsB, 99.0, 101.0
+
+TimeSpan, (T29)
+RsP, RsP, 199.0, 201.0
+
+TimeSpan, (TS1)
+RsT, RsS, 99.0, 101.0
+
+TimeSpan, (PT1)
+RsP, RsT, 99.0, 101.0
+
+TimeSpan, (TX1)
+RsT, RsX, 99.0, 101.0
+
+TimeSpan, (PS1)
+RsP, RsS, 99.0, 101.0
+
+TimeSpan, (T34)
+RsV, RsX, 199.0, 201.0
+
+TimeSpan, (XS1)
+RsX, RsS, 99.0, 101.0
+

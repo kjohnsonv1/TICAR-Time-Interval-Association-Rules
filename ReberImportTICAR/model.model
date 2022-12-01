@@ -1,0 +1,392 @@
+TimeSpan, (BT1)
+RsB, RsT, 98.77965, 100.77965
+
+TimeSpan, (T2)
+RsE, RsE, 199.0, 201.0
+
+TimeSpan, (BP1)
+RsB, RsP, 98.42198, 100.42198
+
+TimeSpan, (VV1)
+RsV, RsV, 98.38176, 100.38176
+
+TimeSpan, (VP1)
+RsV, RsP, 98.65292, 100.65292
+
+TimeSpan, (T6)
+RsS, RsE, 298.5227, 300.5227
+
+TimeSpan, (XX1)
+RsX, RsX, 98.15872, 100.15872
+
+TimeSpan, (EFinT1)
+RsE, RsFinT, 99.0, 101.0
+
+TimeSpan, (EFinP1)
+RsE, RsFinP, 99.0, 101.0
+
+TimeSpan, (TT1)
+RsT, RsT, 98.09602, 100.09602
+
+TimeSpan, (PX1)
+RsP, RsX, 99.0, 101.0
+
+TimeSpan, (SS1)
+RsS, RsS, 99.0, 101.0
+
+TimeSpan, (TV1)
+RsT, RsV, 99.0, 101.0
+
+TimeSpan, (T14)
+RsB, RsX, 199.0, 201.0
+
+TimeSpan, (SE1)
+RsS, RsE, 99.0, 101.0
+
+TimeSpan, (XV1)
+RsX, RsV, 99.0, 101.0
+
+TimeSpan, (T17)
+RsS, RsFinP, 199.0, 201.0
+
+TimeSpan, (XT1)
+RsX, RsT, 99.0, 101.0
+
+TimeSpan, (SX1)
+RsS, RsX, 99.0, 101.0
+
+TimeSpan, (T20)
+RsB, RsB, 199.0, 201.0
+
+TimeSpan, (VE1)
+RsV, RsE, 99.0, 101.0
+
+TimeSpan, (T22)
+RsT, RsP, 199.0, 201.0
+
+TimeSpan, (T23)
+RsV, RsE, 295.64508, 306.59106
+
+TimeSpan, (FinTE1)
+RsFinT, RsE, 99.0, 101.0
+
+TimeSpan, (FinPE1)
+RsFinP, RsE, 99.0, 101.0
+
+TimeSpan, (PB1)
+RsP, RsB, 99.0, 101.0
+
+TimeSpan, (PV1)
+RsP, RsV, 99.0, 101.0
+
+TimeSpan, (TB1)
+RsT, RsB, 99.0, 101.0
+
+TimeSpan, (T29)
+RsP, RsP, 199.0, 201.0
+
+TimeSpan, (TS1)
+RsT, RsS, 99.0, 101.0
+
+TimeSpan, (PT1)
+RsP, RsT, 99.0, 101.0
+
+TimeSpan, (TX1)
+RsT, RsX, 99.0, 101.0
+
+TimeSpan, (PS1)
+RsP, RsS, 99.0, 101.0
+
+TimeSpan, (T34)
+RsV, RsX, 199.0, 201.0
+
+TimeSpan, (XS1)
+RsX, RsS, 99.0, 101.0
+
+Group, G1
+4.0
+1.0, (PB1)
+1.0, (SE1)
+1.0, (SE1~RB)
+1.0, (SE1~RA)
+(PT1~RA), (PT1~RB), SameFrequency
+(PB1~RB), (BP1~RA), SameTime
+(BP1~RB), (PT1~RA), SameTime
+(PB1), (PB1~RB), SameFrequency
+(TS1~RB), (T6~RA), SameTime
+(T22~RB), (PX1~RA), SameTime
+(XT1~RB), (TT1~RA), SameTime
+(SX1~RA), (SX1~RB), SameFrequency
+(XS1~RB), (SE1~RA), SameTime
+(XV1~RB), (T34~RA), SameTime
+(BP1~RB), (PV1~RA), SameTime
+(TS1~RB), (SX1~RA), SameTime
+(SS1~RB), (SX1~RA), SameTime
+(PB1), (PB1~RA), SameFrequency
+(PB1~RB), (BT1~RA), SameTime
+(TX1~RA), (TX1~RB), SameFrequency
+(T6~RB), (SE1~RB), SameTime
+(XV1~RA), (XV1~RB), SameFrequency
+(TS1~RA), (TS1~RB), SameFrequency
+(TT1~RB), (T22~RA), SameTime
+(PT1~RB), (TT1~RA), SameTime
+(TS1~RB), (SS1~RA), SameTime
+(SS1~RB), (T6~RA), SameTime
+(XS1~RA), (XS1~RB), SameFrequency
+(T34~RA), (T34~RB), SameFrequency
+(XV1~RB), (T23~RA), SameTime
+(BT1~RB), (TX1~RA), SameTime
+(T34~RB), (XT1~RA), SameTime
+(SE1~RA), (SE1), SameFrequency
+(XT1~RB), (T22~RA), SameTime
+(SS1~RB), (SS1~RA), SameTime
+(T22~RB), (PS1~RA), SameTime
+(BT1~RA), (BT1~RB), SameFrequency
+(PT1~RB), (T22~RA), SameTime
+(PX1~RA), (PX1~RB), SameFrequency
+(XX1~RB), (XV1~RA), SameTime
+(SX1~RB), (XX1~RA), SameTime
+(PV1~RB), (T23~RA), SameTime
+(PV1~RB), (T34~RA), SameTime
+(TX1~RB), (XX1~RA), SameTime
+(XX1~RA), (XX1~RB), SameFrequency
+(T23~RA), (T23~RB), SameFrequency
+(T22~RA), (T22~RB), SameFrequency
+(TT1~RB), (TT1~RA), SameTime
+(TT1~RA), (TT1~RB), SameFrequency
+(PV1~RA), (PV1~RB), SameFrequency
+(BP1~RA), (BP1~RB), SameFrequency
+(BT1~RB), (TS1~RA), SameTime
+(SE1~RB), (SE1), SameFrequency
+(SS1~RA), (SS1~RB), SameFrequency
+(XT1~RA), (XT1~RB), SameFrequency
+(PS1~RB), (SE1~RA), SameTime
+(T34~RB), (XV1~RA), SameTime
+(PS1~RA), (PS1~RB), SameFrequency
+(TX1~RB), (XS1~RA), SameTime
+(T23~RB), (SE1~RB), SameTime
+(PX1~RB), (XV1~RA), SameTime
+(T6~RA), (T6~RB), SameFrequency
+(XX1~RB), (XT1~RA), SameTime
+
+FutureExplanation
+G1~R(SE1~RB), (EFinP1), RsFinP
+
+FutureExplanation
+G1~R(SE1~RA), (T17), RsFinP
+
+Group, G2
+4.0
+1.0, (SE1)
+1.0, (TB1)
+1.0, (SE1~RB)
+1.0, (SE1~RA)
+(XV1~RA), (XX1~RB), SameTime
+(SS1~RA), (SS1~RB), SameTime
+(TT1~RB), (TT1~RA), SameFrequency
+(PS1~RA), (T29~RB), SameTime
+(XX1~RA), (SX1~RB), SameTime
+(TB1~RB), (TB1), SameFrequency
+(XS1~RA), (SX1~RB), SameTime
+(SS1~RB), (SS1~RA), SameFrequency
+(PS1~RA), (VP1~RB), SameTime
+(SE1~RA), (XS1~RB), SameTime
+(TB1~RA), (TB1), SameFrequency
+(T34~RA), (VP1~RA), SameTime
+(SE1~RA), (PS1~RB), SameTime
+(SX1~RA), (TS1~RB), SameTime
+(T14~RB), (T14~RA), SameFrequency
+(VP1~RA), (XV1~RB), SameTime
+(PS1~RA), (T22~RB), SameTime
+(TS1~RA), (BT1~RB), SameTime
+(XT1~RB), (XT1~RA), SameFrequency
+(XV1~RA), (T34~RB), SameTime
+(XS1~RB), (XS1~RA), SameFrequency
+(TT1~RA), (XT1~RB), SameTime
+(XT1~RA), (XX1~RB), SameTime
+(XX1~RB), (XX1~RA), SameFrequency
+(T22~RA), (XT1~RB), SameTime
+(PT1~RA), (T22~RB), SameTime
+(XS1~RA), (T14~RB), SameTime
+(T22~RA), (PT1~RB), SameTime
+(T22~RA), (TT1~RB), SameTime
+(T22~RA), (TB1~RA), SameTime
+(T29~RB), (T29~RA), SameFrequency
+(SE1), (SE1~RA), SameFrequency
+(XT1~RA), (T34~RB), SameTime
+(TT1~RA), (PT1~RB), SameTime
+(VP1~RB), (VP1~RA), SameFrequency
+(SX1~RB), (SX1~RA), SameFrequency
+(VP1~RB), (T22~RB), SameTime
+(T14~RA), (TB1~RB), SameTime
+(T34~RA), (XV1~RB), SameTime
+(BT1~RA), (TB1~RB), SameTime
+(PT1~RB), (PT1~RA), SameFrequency
+(SX1~RA), (SS1~RB), SameTime
+(T29~RA), (T22~RB), SameTime
+(XX1~RA), (T14~RB), SameTime
+(T34~RB), (T34~RA), SameFrequency
+(SS1~RA), (TS1~RB), SameTime
+(XV1~RB), (XV1~RA), SameFrequency
+(BT1~RB), (BT1~RA), SameFrequency
+(TT1~RA), (TT1~RB), SameTime
+(T22~RB), (T22~RA), SameFrequency
+(TS1~RB), (TS1~RA), SameFrequency
+(PS1~RB), (PS1~RA), SameFrequency
+(SE1), (SE1~RB), SameFrequency
+
+FutureExplanation
+G2~R(SE1~RB), (EFinT1), RsFinT
+
+Group, G3
+4.0
+0.0, (PB1)
+1.0, (VE1~RB)
+1.0, (VE1~RA)
+1.0, (VE1)
+(SS1~RB), (SS1~RA), SameTime
+(PT1~RA), (PT1~RB), SameFrequency
+(VV1~RB), (VE1~RA), SameTime
+(BT1~RA), (BT1~RB), SameFrequency
+(TV1~RA), (TV1~RB), SameFrequency
+(XV1~RB), (VV1~RA), SameTime
+(XX1~RB), (XV1~RA), SameTime
+(PB1), (PB1~RB), SameFrequency
+(SX1~RB), (XX1~RA), SameTime
+(PV1~RB), (T34~RA), SameTime
+(XT1~RB), (TT1~RA), SameTime
+(SX1~RA), (SX1~RB), SameFrequency
+(T14~RA), (T14~RB), SameFrequency
+(T29~RB), (PV1~RA), SameTime
+(VE1~RA), (VE1), SameFrequency
+(VV1~RA), (VV1~RB), SameFrequency
+(XX1~RA), (XX1~RB), SameFrequency
+(PV1~RB), (VV1~RA), SameTime
+(TV1~RB), (VV1~RA), SameTime
+(T29~RB), (PT1~RA), SameTime
+(XV1~RB), (T34~RA), SameTime
+(TT1~RB), (TT1~RA), SameTime
+(TS1~RB), (SX1~RA), SameTime
+(TT1~RB), (TV1~RA), SameTime
+(SS1~RB), (SX1~RA), SameTime
+(PB1), (PB1~RA), SameFrequency
+(PT1~RB), (TV1~RA), SameTime
+(PB1~RB), (BT1~RA), SameTime
+(TT1~RA), (TT1~RB), SameFrequency
+(VE1), (VE1~RB), SameFrequency
+(PV1~RA), (PV1~RB), SameFrequency
+(PB1~RB), (T14~RA), SameTime
+(XV1~RA), (XV1~RB), SameFrequency
+(PB1~RA), (T29~RA), SameTime
+(TS1~RA), (TS1~RB), SameFrequency
+(BT1~RB), (TS1~RA), SameTime
+(XT1~RB), (TV1~RA), SameTime
+(PT1~RB), (TT1~RA), SameTime
+(SS1~RA), (SS1~RB), SameFrequency
+(XT1~RA), (XT1~RB), SameFrequency
+(TV1~RB), (T34~RA), SameTime
+(TS1~RB), (SS1~RA), SameTime
+(T29~RA), (T29~RB), SameFrequency
+(T34~RB), (XV1~RA), SameTime
+(T14~RB), (XX1~RA), SameTime
+(T34~RA), (T34~RB), SameFrequency
+(XX1~RB), (XT1~RA), SameTime
+(T34~RB), (XT1~RA), SameTime
+
+FutureExplanation
+G3~R(VE1~RB), (EFinT1), RsFinT
+
+FutureExplanation
+(VV1~RB), (VE1), RsE
+
+Group, G4
+4.0
+1.0, (PB1)
+1.0, (VE1~RB)
+1.0, (VE1~RA)
+1.0, (VE1)
+(SS1~RB), (SS1~RA), SameTime
+(PT1~RA), (PT1~RB), SameFrequency
+(VV1~RB), (VE1~RA), SameTime
+(BT1~RA), (BT1~RB), SameFrequency
+(TV1~RA), (TV1~RB), SameFrequency
+(XV1~RB), (VV1~RA), SameTime
+(PB1~RB), (BP1~RA), SameTime
+(XX1~RB), (XV1~RA), SameTime
+(BP1~RB), (PT1~RA), SameTime
+(PB1), (PB1~RB), SameFrequency
+(SX1~RB), (XX1~RA), SameTime
+(PV1~RB), (T34~RA), SameTime
+(TX1~RB), (XX1~RA), SameTime
+(XT1~RB), (TT1~RA), SameTime
+(SX1~RA), (SX1~RB), SameFrequency
+(VE1~RA), (VE1), SameFrequency
+(XX1~RA), (XX1~RB), SameFrequency
+(VV1~RA), (VV1~RB), SameFrequency
+(PV1~RB), (VV1~RA), SameTime
+(TV1~RB), (VV1~RA), SameTime
+(XV1~RB), (T34~RA), SameTime
+(BP1~RB), (PV1~RA), SameTime
+(TT1~RB), (TT1~RA), SameTime
+(TS1~RB), (SX1~RA), SameTime
+(TT1~RB), (TV1~RA), SameTime
+(SS1~RB), (SX1~RA), SameTime
+(PT1~RB), (TV1~RA), SameTime
+(PB1), (PB1~RA), SameFrequency
+(PB1~RB), (BT1~RA), SameTime
+(TX1~RA), (TX1~RB), SameFrequency
+(TT1~RA), (TT1~RB), SameFrequency
+(VE1), (VE1~RB), SameFrequency
+(PV1~RA), (PV1~RB), SameFrequency
+(XV1~RA), (XV1~RB), SameFrequency
+(BP1~RA), (BP1~RB), SameFrequency
+(TS1~RA), (TS1~RB), SameFrequency
+(BT1~RB), (TS1~RA), SameTime
+(XT1~RB), (TV1~RA), SameTime
+(PT1~RB), (TT1~RA), SameTime
+(SS1~RA), (SS1~RB), SameFrequency
+(XT1~RA), (XT1~RB), SameFrequency
+(TV1~RB), (T34~RA), SameTime
+(TS1~RB), (SS1~RA), SameTime
+(T34~RB), (XV1~RA), SameTime
+(T34~RA), (T34~RB), SameFrequency
+(BT1~RB), (TX1~RA), SameTime
+(XX1~RB), (XT1~RA), SameTime
+(T34~RB), (XT1~RA), SameTime
+
+FutureExplanation
+G4~R(VE1~RB), (EFinP1), RsFinP
+
+FutureExplanation
+(PS1~RB), (SE1), RsE
+
+FutureExplanation
+(XS1~RB), (SE1), RsE
+
+Group, G5
+3.0
+1.0, (PB1)
+1.0, (XX1~RB)
+1.0, (XX1)
+(SS1~RB), (SS1~RA), SameTime
+(SS1~RB), (SX1~RA), SameTime
+(PB1), (PB1~RA), SameFrequency
+(BT1~RA), (BT1~RB), SameFrequency
+(XX1~RA), (XX1), SameFrequency
+(PB1~RB), (BT1~RA), SameTime
+(PB1), (PB1~RB), SameFrequency
+(PB1~RB), (T14~RA), SameTime
+(SX1~RB), (XX1~RA), SameTime
+(TS1~RA), (TS1~RB), SameFrequency
+(XX1), (XX1~RB), SameFrequency
+(BT1~RB), (TS1~RA), SameTime
+(SX1~RA), (SX1~RB), SameFrequency
+(T14~RA), (T14~RB), SameFrequency
+(SS1~RA), (SS1~RB), SameFrequency
+(TS1~RB), (SS1~RA), SameTime
+(T14~RB), (XX1~RA), SameTime
+(TS1~RB), (SX1~RA), SameTime
+
+FutureExplanation
+G5~R(XX1~RB), (XV1), RsV
+
